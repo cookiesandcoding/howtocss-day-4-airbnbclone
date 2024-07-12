@@ -398,6 +398,7 @@
 .body a {
   text-decoration: none;
   color: rgb(45, 45, 45);
+  cursor: pointer;
 }
 .popular a:hover,
 .privacy a:hover,
