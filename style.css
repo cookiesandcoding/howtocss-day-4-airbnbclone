@@ -284,7 +284,8 @@
 .card5 .material-symbols-outlined,
 .card6 .material-symbols-outlined,
 .card7 .material-symbols-outlined,
-.card8 .material-symbols-outlined {
+.card8 .material-symbols-outlined,
+.card9 .material-symbols-outlined {
   position: absolute;
   top: 5px;
   right: 5px;
@@ -306,7 +307,8 @@
 .card5 div,
 .card6 div,
 .card7 div,
-.card8 div {
+.card8 div,
+.card9 div {
   position: relative;
 }
 .card1 .live {
@@ -346,7 +348,7 @@
 .image-6,
 .image-7,
 .image-8,
-.image9 {
+.image-9 {
   padding: 0;
   width: 295px;
   height: 295px;
